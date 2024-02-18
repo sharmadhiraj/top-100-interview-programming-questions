@@ -8,5 +8,7 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 ### Random
 
-1. **[Swap variable](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/swap.dart)
-   ** Swap two variables without using a third variable.
+1. [<b>Swap variable</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/swap.dart)
+   Swap two variables without using a third variable.
+2. [<b>Sort array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/sort_array.dart)
+   Sort an array without using sort function.
