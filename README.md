@@ -14,3 +14,5 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
    Sort an array without using sort function.
 3. [<b>Second-largest element in array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/second_largest_element.dart)
    Find second-largest element in array.
+4. [<b>N prime numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/n_prime_numbers.dart)
+   Generate first N prime numbers.
