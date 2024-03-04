@@ -18,3 +18,5 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
    Generate first N prime numbers.
 5. [<b>Reverse string</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/reverse_string.dart)
    Reverse given string without loop or reverse function.
+6. [<b>Add matrices</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/add_matrix.dart)
+   Add two matrices.
