@@ -16,3 +16,5 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
    Find second-largest element in array.
 4. [<b>N prime numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/n_prime_numbers.dart)
    Generate first N prime numbers.
+5. [<b>Reverse string</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/reverse_string.dart)
+   Reverse given string without loop or reverse function.
