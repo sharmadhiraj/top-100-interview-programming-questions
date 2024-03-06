@@ -4,7 +4,12 @@ Welcome to Top 100 Interview Programming Questions! This repository, written in 
 100 interview programming questions sourced
 from [this article](https://shirsh94.medium.com/top-100-interview-programming-questions-that-asks-many-times-5c5bf36449ab).
 
+Additional tests will be added later to ensure code accuracy.
+
 ### Work In Progress
+
+Implementation progress: 6 out of 100 questions completed.  
+Test coverage: 0 out of 100 questions completed.
 
 ### Random
 
@@ -20,3 +25,5 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
    Reverse given string without loop or reverse function.
 6. [<b>Add matrices</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/add_matrix.dart)
    Add two matrices.
+7. [<b>Count Character Occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/count_character_occurrence.dart)
+   Count occurrences of characters in a given string.
