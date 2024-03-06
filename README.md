@@ -8,7 +8,7 @@ Additional tests will be added later to ensure code accuracy.
 
 ### Work In Progress
 
-Implementation progress: 6 out of 100 questions completed.  
+Implementation progress: 8 out of 100 questions completed.  
 Test coverage: 0 out of 100 questions completed.
 
 ### Random
@@ -25,5 +25,7 @@ Test coverage: 0 out of 100 questions completed.
    Reverse given string without loop or reverse function.
 6. [<b>Add matrices</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/add_matrix.dart)
    Add two matrices.
-7. [<b>Count Character Occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/count_character_occurrence.dart)
+7. [<b>Count character occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/count_character_occurrence.dart)
    Count occurrences of characters in a given string.
+8. [<b>Number to words</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/random/number_to_words.dart)
+   Convert given number to words.
