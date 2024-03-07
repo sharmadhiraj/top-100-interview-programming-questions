@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation progress**: 8 out of 100 questions completed.  
-**Test coverage**: 0 out of 100 questions completed.
+**Implementation progress**: 9 out of 100 questions completed.  
+**Test coverage**: 9 out of 100 questions completed.
 
 ### Run tests
 
@@ -37,3 +37,5 @@ dart test
    Count occurrences of characters in a given string.
 8. [<b>Number to words</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/number_to_words.dart)
    Convert given number to words.
+9. [<b>Matching characters in two strings</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/matching_characters.dart)
+   Find matching characters in two strings.
