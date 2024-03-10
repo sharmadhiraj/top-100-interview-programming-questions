@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation progress**: 10 out of 100 questions completed.  
-**Test coverage**: 10 out of 100 questions completed.
+**Implementation progress**: 11 out of 100 questions completed.  
+**Test coverage**: 11 out of 100 questions completed.
 
 ### Run tests
 
@@ -41,3 +41,5 @@ dart test
    Find matching characters in two strings.
 10. [<b>Vowels & Consonants counter</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/count_vowels_consonants.dart)
     Count number of vowels and consonants in give string.
+11. [<b>Factors</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/factors_of_number.dart)
+    Find factors of a given number.
