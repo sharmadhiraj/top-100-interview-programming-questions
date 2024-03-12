@@ -1,23 +1,7 @@
-import 'dart:convert';
-
-class ListNode {
-  final int val;
-  ListNode? next;
-
-  ListNode({required this.val, this.next});
-
-  @override
-  String toString() {
-    return jsonEncode({"Value": val, "Next": next?.val});
-  }
-}
+import '../common/list_node.dart';
 
 void main() {
-  ListNode head = ListNode(val: 1);
-  head.next = ListNode(val: 2);
-  head.next?.next = ListNode(val: 3);
-  head.next?.next?.next = ListNode(val: 4);
-  head.next?.next?.next?.next = ListNode(val: 5);
+  ListNode? head = ListNode.createLinkedList([1, 2, 3, 4, 5]);
 
   print(getNthNode(head, 3));
 }
