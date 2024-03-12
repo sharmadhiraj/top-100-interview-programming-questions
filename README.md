@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation progress**: 11 out of 100 questions completed.  
-**Test coverage**: 11 out of 100 questions completed.
+**Implementation progress**: 13 out of 100 questions completed.  
+**Test coverage**: 13 out of 100 questions completed.
 
 ### Run tests
 
@@ -45,3 +45,5 @@ dart test
     Find factors of a given number.
 12. [<b>Fibonacci numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/fibonacci_numbers.dart)
     Generate first n fibonacci numbers.
+13. [<b>LinkedList nodes by index</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nth_node_linked_list.dart)
+    Get nth node of LinkedList.
