@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation progress**: 14 out of 100 questions completed.  
-**Test coverage**: 14 out of 100 questions completed.
+**Implementation progress**: 15 out of 100 questions completed.  
+**Test coverage**: 15 out of 100 questions completed.
 
 ### Run tests
 
@@ -47,5 +47,7 @@ dart test
     Generate first n fibonacci numbers.
 13. [<b>LinkedList node by index</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nth_node_linked_list.dart)
     Get nth node of LinkedList.
-14. [<b>Search node/b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/search_node_linked_list.dart)
+14. [<b>Search node</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/search_node_linked_list.dart)
     Get index of node in LinkedList.
+15. [<b>Remove special characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_special_characters.dart)
+    Remove special characters from given string without regex.
