@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 16 out of 100 questions completed.  
-**Test coverage**: 16 out of 100 questions completed.
+**Implementation**: 17 out of 100 questions completed.  
+**Test coverage**: 17 out of 100 questions completed.
 
 ### Run tests
 
@@ -53,3 +53,5 @@ dart test
     Remove special characters from given string without regex.
 16. [<b>Find missing and duplicate_number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_special_characters.dart)
     Find missing and duplicate number from give array.
+17. [<b>String permutations</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
+    Find all permutations of given string.
