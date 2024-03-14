@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 17 out of 100 questions completed.  
-**Test coverage**: 17 out of 100 questions completed.
+**Implementation**: 19 out of 100 questions completed.  
+**Test coverage**: 19 out of 100 questions completed.
 
 ### Run tests
 
@@ -55,3 +55,7 @@ dart test
     Find missing and duplicate number from give array.
 17. [<b>String permutations</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
     Find all permutations of given string.
+18. [<b>Sudoku</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
+    Solve Sudoku [WIP].
+19. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
+    Check if given number is palindrome (without converting to string).
