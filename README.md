@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 21 out of 100 questions completed.  
-**Test coverage**: 21 out of 100 questions completed.
+**Implementation**: 23 out of 100 questions completed.  
+**Test coverage**: 23 out of 100 questions completed.
 
 ### Run tests
 
@@ -51,15 +51,20 @@ dart test
     Get index of node in LinkedList.
 15. [<b>Remove special characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_special_characters.dart)
     Remove special characters from given string without regex.
-16. [<b>Find missing and duplicate_number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_special_characters.dart)
+16. [<b>Find missing and duplicate_number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/find_missing_and_duplicate.dart)
     Find missing and duplicate number from give array.
 17. [<b>String permutations</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
     Find all permutations of given string.
-18. [<b>Sudoku</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
+18. [<b>Sudoku</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/sudoku.dart)
     Solve Sudoku [WIP].
-19. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
+19. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_palindrome.dart)
     Check if given number is palindrome (without converting to string).
 20. [<b>Average of array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/average_of_array.dart)
     Calculate the average of all numbers in a given array.
 21. [<b>Check leap year</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_leap_year.dart)
     Check if given year is leap year.
+22. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_palindrome.dart)
+    Check if given number is palindrome (without converting to string).
+23. [<b>Check narcissistic number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_narcissistic_number.dart)
+    Check if given number is narcissistic number (is a number that is the sum of its own digits each raised to the power
+    of the number of digits).
