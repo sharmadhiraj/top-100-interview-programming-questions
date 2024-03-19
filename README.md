@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 20 out of 100 questions completed.  
-**Test coverage**: 20 out of 100 questions completed.
+**Implementation**: 21 out of 100 questions completed.  
+**Test coverage**: 21 out of 100 questions completed.
 
 ### Run tests
 
@@ -61,3 +61,5 @@ dart test
     Check if given number is palindrome (without converting to string).
 20. [<b>Average of array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/average_of_array.dart)
     Calculate the average of all numbers in a given array.
+21. [<b>Check leap year</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_leap_year.dart)
+    Check if given year is leap year.
