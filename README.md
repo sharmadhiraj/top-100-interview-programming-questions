@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 24 out of 100 questions completed.  
-**Test coverage**: 24 out of 100 questions completed.
+**Implementation**: 25 out of 100 questions completed.  
+**Test coverage**: 25 out of 100 questions completed.
 
 ### Run tests
 
@@ -70,3 +70,5 @@ dart test
     of the number of digits).
 24. [<b>Remove duplicates from array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
     Remove duplicate items from array.
+25. [<b>Binary search</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/binary_search.dart)
+    Find item index in array using Binary Search.
