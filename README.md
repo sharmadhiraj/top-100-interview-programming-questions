@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 23 out of 100 questions completed.  
-**Test coverage**: 23 out of 100 questions completed.
+**Implementation**: 24 out of 100 questions completed.  
+**Test coverage**: 24 out of 100 questions completed.
 
 ### Run tests
 
@@ -68,3 +68,5 @@ dart test
 23. [<b>Check narcissistic number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_narcissistic_number.dart)
     Check if given number is narcissistic number (is a number that is the sum of its own digits each raised to the power
     of the number of digits).
+24. [<b>Remove duplicates from array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
+    Remove duplicate items from array.
