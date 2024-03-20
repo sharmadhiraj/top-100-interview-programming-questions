@@ -4,7 +4,7 @@ import '../../src/random/binary_search.dart';
 
 void main() {
   test(
-    "Remove duplicates from array",
+    "Find item index using Binary Search",
     () {
       expect(
         binarySearch([4, 6, 8, 11], 13),
