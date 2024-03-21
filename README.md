@@ -74,3 +74,5 @@ dart test
     Find item index in array using Binary Search.
 26. [<b>Sum of natural numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/sum_of_n_natural_numbers.dart)
     Calculate sum of first n natural numbers.
+27. [<b>Nearest smaller number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nearest_smaller_numbers_on_left_side_of_array.dart)
+    Find nearest smaller numbers of left side of array.
