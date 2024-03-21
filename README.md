@@ -76,3 +76,5 @@ dart test
     Calculate sum of first n natural numbers.
 27. [<b>Nearest smaller number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nearest_smaller_numbers_on_left_side_of_array.dart)
     Find nearest smaller numbers of left side of array.
+28. [<b>Minimum number of coins</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/minimum_number_of_coins.dart)
+    Calculate the minimum number of coins required for value.
