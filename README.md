@@ -78,3 +78,5 @@ dart test
     Find nearest smaller numbers of left side of array.
 28. [<b>Minimum number of coins</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/minimum_number_of_coins.dart)
     Calculate the minimum number of coins required for value.
+29. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/index_of_two_elements_target_sum.dart)
+    Find indices of two numbers with target sum.
