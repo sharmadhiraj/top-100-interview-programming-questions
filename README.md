@@ -89,3 +89,5 @@ dart test
    Search for target value in rotated array.
 3. [<b>Missing number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/find_missing_number_in_array.dart)
    Find missing number in array.
+4. [<b>Duplicate number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_number_on_array.dart)
+   Find the duplicate number in array.
