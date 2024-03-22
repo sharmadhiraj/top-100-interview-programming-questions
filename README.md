@@ -80,3 +80,8 @@ dart test
     Calculate the minimum number of coins required for value.
 29. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/index_of_two_elements_target_sum.dart)
     Find indices of two numbers with target sum.
+
+#### Array
+
+1. [<b>Remove duplicates from array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
+   Remove duplicate items from array.

@@ -3,9 +3,5 @@ void main() {
 }
 
 List<int> removeDuplicatesFromArray(List<int> list) {
-  final Set<int> uniqueSet = {};
-  for (int n in list) {
-    uniqueSet.add(n);
-  }
-  return uniqueSet.toList();
+  return list.toSet().toList();
 }
