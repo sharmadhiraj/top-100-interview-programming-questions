@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 26 out of 100 questions completed.  
-**Test coverage**: 26 out of 100 questions completed.
+**Implementation**: 33 out of 100 questions completed.  
+**Test coverage**: 33 out of 100 questions completed.
 
 ### Run tests
 
