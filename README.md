@@ -85,3 +85,5 @@ dart test
 
 1. [<b>Remove duplicates from array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
    Remove duplicate items from array.
+2. [<b>Search in rotated array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/search_for_target_value_in_rotated_array.dart)
+   Search for target value in rotated array.
