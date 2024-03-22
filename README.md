@@ -87,3 +87,5 @@ dart test
    Remove duplicate items from array.
 2. [<b>Search in rotated array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/search_for_target_value_in_rotated_array.dart)
    Search for target value in rotated array.
+3. [<b>Missing number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/find_missing_number_in_array.dart)
+   Find missing number in array.
