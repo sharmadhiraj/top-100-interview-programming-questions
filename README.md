@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 36 out of 100 questions completed.  
-**Test coverage**: 36 out of 100 questions completed.
+**Implementation**: 37 out of 100 questions completed.  
+**Test coverage**: 37 out of 100 questions completed.
 
 ### Run tests
 
@@ -97,3 +97,5 @@ dart test
    Find indices of two numbers with target sum.
 7. [<b>Remove duplicates in array in place</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array_in_place.dart)
    Remove the duplicate elements from array in place.
+8. [<b>Rotate array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/rotate_array.dart)
+   Rotate given array by rotation value.
