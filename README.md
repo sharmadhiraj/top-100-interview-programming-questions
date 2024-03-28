@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 34 out of 100 questions completed.  
-**Test coverage**: 35 out of 100 questions completed.
+**Implementation**: 36 out of 100 questions completed.  
+**Test coverage**: 36 out of 100 questions completed.
 
 ### Run tests
 
@@ -93,3 +93,7 @@ dart test
    Find the duplicate number in array.
 5. [<b>Smallest & Largest element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/smallest_and_largest_element.dart)
    Find the smallest and largest element for integer array(list).
+6. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/index_of_two_elements_target_sum.dart)
+   Find indices of two numbers with target sum.
+7. [<b>Remove duplicates in array in place</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array_in_place.dart)
+   Remove the duplicate elements from array in place.
