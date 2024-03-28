@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 33 out of 100 questions completed.  
-**Test coverage**: 33 out of 100 questions completed.
+**Implementation**: 34 out of 100 questions completed.  
+**Test coverage**: 35 out of 100 questions completed.
 
 ### Run tests
 
@@ -91,3 +91,5 @@ dart test
    Find missing number in array.
 4. [<b>Duplicate number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_number_on_array.dart)
    Find the duplicate number in array.
+5. [<b>Smallest & Largest element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/smallest_and_largest_element.dart)
+   Find the smallest and largest element for integer array(list).
