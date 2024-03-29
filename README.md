@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 37 out of 100 questions completed.  
-**Test coverage**: 37 out of 100 questions completed.
+**Implementation**: 38 out of 100 questions completed.  
+**Test coverage**: 38 out of 100 questions completed.
 
 ### Run tests
 
@@ -93,9 +93,11 @@ dart test
    Find the duplicate number in array.
 5. [<b>Smallest & Largest element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/smallest_and_largest_element.dart)
    Find the smallest and largest element for integer array(list).
-6. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/index_of_two_elements_target_sum.dart)
+6. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/index_of_two_elements_target_sum.dart)
    Find indices of two numbers with target sum.
-7. [<b>Remove duplicates in array in place</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array_in_place.dart)
+7. [<b>Remove duplicates in array in place</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/remove_duplicates_from_array_in_place.dart)
    Remove the duplicate elements from array in place.
-8. [<b>Rotate array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/rotate_array.dart)
+8. [<b>Rotate array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/rotate_array.dart)
    Rotate given array by rotation value.
+9. [<b>Duplicate elements</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_elements_index.dart)
+   Find duplicate elements from given array.
