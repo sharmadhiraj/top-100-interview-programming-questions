@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 42 out of 100 questions completed.  
-**Test coverage**: 42 out of 100 questions completed.
+**Implementation**: 43 out of 100 questions completed.  
+**Test coverage**: 43 out of 100 questions completed.
 
 ### Run tests
 
@@ -109,3 +109,5 @@ dart test
     Integer array sorted in place using the quicksort algorithm.
 13. [<b>Largest sum of subarray</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/contiguous_subarray_with_largest_sum.dart)
     Contiguous subarray which has the largest sum.
+14. [<b>Reverse array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/reverse_array_in_place.dart)
+    Reverse given array in place.
