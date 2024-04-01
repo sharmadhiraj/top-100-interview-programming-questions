@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 40 out of 100 questions completed.  
-**Test coverage**: 40 out of 100 questions completed.
+**Implementation**: 41 out of 100 questions completed.  
+**Test coverage**: 41 out of 100 questions completed.
 
 ### Run tests
 
@@ -105,3 +105,5 @@ dart test
     Find starting and ending position of a given target value in ascending ordered array.
 11. [<b>Longest consecutive subarray</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/longest_consecutive_elements_subarray.dart)
     Find the maximum length of subarray with consecutive elements.
+12. [<b>In place QuickSort</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/in_place_quicksort.dart)
+    Integer array sorted in place using the quicksort algorithm.
