@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 39 out of 100 questions completed.  
-**Test coverage**: 39 out of 100 questions completed.
+**Implementation**: 40 out of 100 questions completed.  
+**Test coverage**: 40 out of 100 questions completed.
 
 ### Run tests
 
@@ -103,3 +103,5 @@ dart test
    Find duplicate elements from given array.
 10. [<b>Index of target element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/start_and_end_position_of_target_element_in_array.dart)
     Find starting and ending position of a given target value in ascending ordered array.
+11. [<b>Longest consecutive subarray</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/longest_consecutive_elements_subarray.dart)
+    Find the maximum length of subarray with consecutive elements.
