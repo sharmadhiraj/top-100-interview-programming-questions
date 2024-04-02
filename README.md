@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 44 out of 100 questions completed.  
-**Test coverage**: 44 out of 100 questions completed.
+**Implementation**: 45 out of 100 questions completed.  
+**Test coverage**: 45 out of 100 questions completed.
 
 ### Run tests
 
@@ -113,3 +113,5 @@ dart test
     Reverse given array in place.
 15. [<b>Remove duplicates</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/remove_duplicates.dart)
     Remove duplicate elements from array without using special function.
+16. [<b>Byte array to String</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/byte_array_to_string.dart)
+    Convert a Byte Array to a String.
