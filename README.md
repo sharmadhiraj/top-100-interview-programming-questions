@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 45 out of 100 questions completed.  
-**Test coverage**: 45 out of 100 questions completed.
+**Implementation**: 48 out of 100 questions completed.  
+**Test coverage**: 48 out of 100 questions completed.
 
 ### Run tests
 
@@ -115,3 +115,9 @@ dart test
     Remove duplicate elements from array without using special function.
 16. [<b>Byte array to String</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/byte_array_to_string.dart)
     Convert a Byte Array to a String.
+17. [<b>LinkedList example</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nth_node_linked_list.dart)
+    LinkedList implementation example.
+18. [<b>Binary search</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/binary_search.dart)
+    Perform binary search in a given array.
+19. [<b>Median of sorted arrays merged</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/median_of_two_sorted_arrays_merged.dart)
+    Merge two sorted arrays and calculate median.
