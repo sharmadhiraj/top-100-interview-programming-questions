@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import '../../src/array/duplicate_elements_index.dart';
+import '../../src/array/duplicate_elements.dart';
 
 void main() {
   test("Find duplicate elements in the list", () {

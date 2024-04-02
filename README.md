@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 48 out of 100 questions completed.  
-**Test coverage**: 48 out of 100 questions completed.
+**Implementation**: 49 out of 100 questions completed.  
+**Test coverage**: 49 out of 100 questions completed.
 
 ### Run tests
 
@@ -99,7 +99,7 @@ dart test
    Remove the duplicate elements from array in place.
 8. [<b>Rotate array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/rotate_array.dart)
    Rotate given array by rotation value.
-9. [<b>Duplicate elements</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_elements_index.dart)
+9. [<b>Duplicate elements</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_elements.dart)
    Find duplicate elements from given array.
 10. [<b>Index of target element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/start_and_end_position_of_target_element_in_array.dart)
     Find starting and ending position of a given target value in ascending ordered array.
@@ -121,3 +121,5 @@ dart test
     Perform binary search in a given array.
 19. [<b>Median of sorted arrays merged</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/median_of_two_sorted_arrays_merged.dart)
     Merge two sorted arrays and calculate median.
+20. [<b>Duplicate elements</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_elements.dart)
+    Find duplicate elements from given array.
