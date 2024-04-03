@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 class ListNode {
   final int val;
   ListNode? next;
@@ -8,7 +6,16 @@ class ListNode {
 
   @override
   String toString() {
-    return jsonEncode({"Value": val, "Next": next?.val});
+    final StringBuffer stringBuffer = StringBuffer();
+    ListNode? head = this;
+    while (head != null) {
+      stringBuffer.write(head.val);
+      if (head.next != null) {
+        stringBuffer.write(" -> ");
+      }
+      head = head.next;
+    }
+    return stringBuffer.toString();
   }
 
   static ListNode? createLinkedList(List<int> values) {
@@ -24,7 +31,6 @@ class ListNode {
         current = current?.next;
       }
     }
-
     return head;
   }
 }

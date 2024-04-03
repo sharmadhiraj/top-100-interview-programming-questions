@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 49 out of 100 questions completed.  
-**Test coverage**: 49 out of 100 questions completed.
+**Implementation**: 50 out of 100 questions completed.  
+**Test coverage**: 50 out of 100 questions completed.
 
 ### Run tests
 
@@ -123,3 +123,8 @@ dart test
     Merge two sorted arrays and calculate median.
 20. [<b>Duplicate elements</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_elements.dart)
     Find duplicate elements from given array.
+
+#### Linked List
+
+1. [<b>Reverse Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/reverse_linked_list.dart)
+   Reverse a LinkedList.
