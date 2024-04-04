@@ -128,3 +128,5 @@ dart test
 
 1. [<b>Reverse Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/reverse_linked_list.dart)
    Reverse a LinkedList.
+2. [<b>Add element in middle</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/insert_node_in_middle_of_linked_list.dart)
+   Add an element in the middle of Linked List.
