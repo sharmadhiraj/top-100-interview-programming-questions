@@ -18,6 +18,9 @@ class ListNode {
     return stringBuffer.toString();
   }
 
+  @override
+  operator ==(o) => o is ListNode && o.val == val && o.next == next;
+
   static ListNode? createLinkedList(List<int> values) {
     ListNode? head;
     ListNode? current;
