@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 50 out of 100 questions completed.  
-**Test coverage**: 50 out of 100 questions completed.
+**Implementation**: 53 out of 100 questions completed.  
+**Test coverage**: 53 out of 100 questions completed.
 
 ### Run tests
 
@@ -132,3 +132,5 @@ dart test
    Add an element in the middle of Linked List.
 3. [<b>Intersection of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/intersection_of_linked_list.dart)
    Find the node at which the intersection of two Linked List begins.
+4. [<b>Palindrome Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/palindrome_linked_list.dart)
+   Check if a given linked list is a palindrome.
