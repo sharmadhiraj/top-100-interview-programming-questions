@@ -134,3 +134,5 @@ dart test
    Find the node at which the intersection of two Linked List begins.
 4. [<b>Palindrome Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/palindrome_linked_list.dart)
    Check if a given linked list is a palindrome.
+5. [<b>Middle of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/middle_of_linked_list.dart)
+   Find the middle element of a Linked List.
