@@ -14,12 +14,16 @@ class ListNode {
         stringBuffer.write(" -> ");
       }
       head = head.next;
+      if (stringBuffer.length > 32) {
+        stringBuffer.write(" .......");
+        break;
+      }
     }
     return stringBuffer.toString();
   }
 
   @override
-  operator ==(o) => o is ListNode && o.val == val && o.next == next;
+  operator ==(o) => o is ListNode && o.val == val && o.next?.val == next?.val;
 
   static ListNode? createLinkedList(List<int> values) {
     ListNode? head;
