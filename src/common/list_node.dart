@@ -14,7 +14,7 @@ class ListNode {
         stringBuffer.write(" -> ");
       }
       head = head.next;
-      if (stringBuffer.length > 32) {
+      if (stringBuffer.length > 64) {
         stringBuffer.write(" .......");
         break;
       }

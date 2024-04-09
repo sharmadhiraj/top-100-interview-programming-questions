@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 56 out of 100 questions completed.  
-**Test coverage**: 56 out of 100 questions completed.
+**Implementation**: 57 out of 100 questions completed.  
+**Test coverage**: 57 out of 100 questions completed.
 
 ### Run tests
 
@@ -140,3 +140,5 @@ dart test
    Check if a given linked list contains a cycle.
 7. [<b>Third last node</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/third_last_node.dart)
    Find the third node from the end in a Linked List.
+8. [<b>Sum of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sum_of_two_linked_list.dart)
+   Sum of two Linked List.
