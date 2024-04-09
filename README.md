@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 55 out of 100 questions completed.  
-**Test coverage**: 55 out of 100 questions completed.
+**Implementation**: 56 out of 100 questions completed.  
+**Test coverage**: 56 out of 100 questions completed.
 
 ### Run tests
 
@@ -138,3 +138,5 @@ dart test
    Find the middle element of a Linked List.
 6. [<b>Cycle Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/cycle_in_linked_list.dart)
    Check if a given linked list contains a cycle.
+7. [<b>Third last node</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/third_last_node.dart)
+   Find the third node from the end in a Linked List.
