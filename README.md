@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 57 out of 100 questions completed.  
-**Test coverage**: 57 out of 100 questions completed.
+**Implementation**: 58 out of 100 questions completed.  
+**Test coverage**: 58 out of 100 questions completed.
 
 ### Run tests
 
@@ -142,3 +142,5 @@ dart test
    Find the third node from the end in a Linked List.
 8. [<b>Sum of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sum_of_two_linked_list.dart)
    Sum of two Linked List.
+9. [<b>Delete List Node by value</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/delete_linked_list_nodes_by_value.dart)
+   Delete all occurrences of a given ListNode by value in given LinkedList.
