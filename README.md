@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 58 out of 100 questions completed.  
-**Test coverage**: 58 out of 100 questions completed.
+**Implementation**: 60 out of 100 questions completed.  
+**Test coverage**: 60 out of 100 questions completed.
 
 ### Run tests
 
@@ -144,3 +144,7 @@ dart test
    Sum of two Linked List.
 9. [<b>Delete List Node by value</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/delete_linked_list_nodes_by_value.dart)
    Delete all occurrences of a given ListNode by value in given LinkedList.
+10. [<b>Reverse Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/reverse_linked_list.dart)
+    Reverse a LinkedList.
+11. [<b>Sort Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sort_linked_list.dart)
+    Sort given LinkedList in ascending order.
