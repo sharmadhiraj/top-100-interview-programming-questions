@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 63 out of 100 questions completed.  
-**Test coverage**: 63 out of 100 questions completed.
+**Implementation**: 64 out of 100 questions completed.  
+**Test coverage**: 64 out of 100 questions completed.
 
 ### Run tests
 
@@ -154,3 +154,5 @@ dart test
     Remove nth node from the end of a Linked List.
 14. [<b>Merge Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/merge_two_sorted_linked_list.dart)
     Merge two sorted Linked List.
+15. [<b>Linked List To BST</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sorted_linked_list_to_binary_search_tree.dart)
+    Convert a sorted Linked List to a Binary Search Tree.
