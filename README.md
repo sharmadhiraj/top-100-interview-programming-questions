@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 61 out of 100 questions completed.  
-**Test coverage**: 61 out of 100 questions completed.
+**Implementation**: 63 out of 100 questions completed.  
+**Test coverage**: 63 out of 100 questions completed.
 
 ### Run tests
 
@@ -148,5 +148,9 @@ dart test
     Reverse a LinkedList.
 11. [<b>Sort Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sort_linked_list.dart)
     Sort given LinkedList in ascending order.
-12. [<b>Remove nth last node</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/remove_nth_last_node.dart)
+12. [<b>LinkedList example</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nth_node_linked_list.dart)
+    LinkedList implementation example.
+13. [<b>Remove nth last node</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/remove_nth_last_node.dart)
     Remove nth node from the end of a Linked List.
+14. [<b>Merge Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/merge_two_sorted_linked_list.dart)
+    Merge two sorted Linked List.
