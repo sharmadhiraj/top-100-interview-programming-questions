@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 65 out of 100 questions completed.  
-**Test coverage**: 65 out of 100 questions completed.
+**Implementation**: 66 out of 100 questions completed.  
+**Test coverage**: 66 out of 100 questions completed.
 
 ### Run tests
 
@@ -158,3 +158,5 @@ dart test
     Convert a sorted Linked List to a Binary Search Tree.
 16. [<b>Linked List Partition by x</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/linked_list_partition_test.dart)
     Partition a linked list by a value x, placing nodes less than x before those greater than or equal to x.
+17. [<b>Remove duplicates</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/remove_duplicates_from_sorted_linked_list.dart)
+    Remove duplicate nodes from a sorted Linked List.
