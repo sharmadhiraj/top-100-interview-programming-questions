@@ -55,8 +55,8 @@ dart test
     Find missing and duplicate number from give array.
 17. [<b>String permutations</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
     Find all permutations of given string.
-18. [<b>Sudoku</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/sudoku.dart)
-    Solve Sudoku [WIP].
+18. [<b>Valid Sudoku</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/valid_sudoku.dart)
+    Determine if a 9 x 9 Sudoku board is valid.
 19. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_palindrome.dart)
     Check if given number is palindrome (without converting to string).
 20. [<b>Average of array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/average_of_array.dart)
