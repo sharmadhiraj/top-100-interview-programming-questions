@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 68 out of 100 questions completed.  
-**Test coverage**: 68 out of 100 questions completed.
+**Implementation**: 69 out of 100 questions completed.  
+**Test coverage**: 69 out of 100 questions completed.
 
 ### Run tests
 
@@ -164,3 +164,5 @@ dart test
     Reverse a LinkedList.
 19. [<b>Remove duplicates (Unsorted Linked List)</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/remove_duplicates_from_unsorted_linked_list.dart)
     Remove duplicate nodes from an unsorted Linked List.
+20. [<b>Length of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/length_of_linked_list.dart)
+    Find the length of a Linked List.
