@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 71 out of 100 questions completed.  
-**Test coverage**: 71 out of 100 questions completed.
+**Implementation**: 72 out of 100 questions completed.  
+**Test coverage**: 72 out of 100 questions completed.
 
 ### Run tests
 
@@ -169,7 +169,9 @@ dart test
 
 #### String
 
-1. [<b>Reverse String (In place)</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/reverse_string_in_place.dart)
+1. [<b>Reverse String (In place)</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/reverse_string_in_place.dart)
    Reverse a given string in place.
-2. [<b>Find duplicate characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/duplicate_characters_in_string.dart)
+2. [<b>Find duplicate characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/duplicate_characters_in_string.dart)
    Find duplicate characters from a string.
+3. [<b>Anagram string</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/anagram_strings.dart)
+   Check if two strings are anagrams of each other.
