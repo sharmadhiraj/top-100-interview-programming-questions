@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 74 out of 100 questions completed.  
-**Test coverage**: 74 out of 100 questions completed.
+**Implementation**: 75 out of 100 questions completed.  
+**Test coverage**: 75 out of 100 questions completed.
 
 ### Run tests
 
@@ -179,3 +179,5 @@ dart test
    Find all the permutations of a string.
 5. [<b>Reverse string (Recursion)</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/reverse_string_using_recursion.dart)
    Reverse a given string using recursion.
+6. [<b>String with digits</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/check_if_string_only_contains_digits.dart)
+   Check if a string contains only digits.
