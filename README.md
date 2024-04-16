@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 78 out of 100 questions completed.  
-**Test coverage**: 78 out of 100 questions completed.
+**Implementation**: 79 out of 100 questions completed.  
+**Test coverage**: 79 out of 100 questions completed.
 
 ### Run tests
 
@@ -187,3 +187,5 @@ dart test
    Count number of vowels and consonants in give string.
 9. [<b>Find character occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/count_given_character_frequency_in_string.dart)
    Count the occurrence of a given character in a string.
+10. [<b>First non-repeated character</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/first_non_repeated_character.dart)
+    Find the first non-repeated character from a string.
