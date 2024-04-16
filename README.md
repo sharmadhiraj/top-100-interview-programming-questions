@@ -6,8 +6,8 @@ from [this article](https://shirsh94.medium.com/top-100-interview-programming-qu
 
 Additional tests are added to ensure code accuracy.
 
-**Implementation**: 75 out of 100 questions completed.  
-**Test coverage**: 75 out of 100 questions completed.
+**Implementation**: 78 out of 100 questions completed.  
+**Test coverage**: 78 out of 100 questions completed.
 
 ### Run tests
 
@@ -181,3 +181,9 @@ dart test
    Reverse a given string using recursion.
 6. [<b>String with digits</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/check_if_string_only_contains_digits.dart)
    Check if a string contains only digits.
+7. [<b>Find duplicate characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/duplicate_characters_in_string.dart)
+   Find duplicate characters from a string.
+8. [<b>Vowels & Consonants counter</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/count_vowels_consonants.dart)
+   Count number of vowels and consonants in give string.
+9. [<b>Find character occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/count_given_character_frequency_in_string.dart)
+   Count the occurrence of a given character in a string.
