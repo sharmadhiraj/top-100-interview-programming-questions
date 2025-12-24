@@ -1,7 +1,7 @@
 # Top 100 Interview Programming Questions
 
-Welcome to Top 100 Interview Programming Questions! This repository, written in Dart, is dedicated to solving the top
-100 interview programming questions sourced
+Welcome to the Top 100 Interview Programming Questions! This repository, written in Dart, is dedicated to solving the
+top 100 interview programming questions sourced
 from [this article](https://shirsh94.medium.com/top-100-interview-programming-questions-that-asks-many-times-5c5bf36449ab).
 
 Additional tests are added to ensure code accuracy.
@@ -24,9 +24,9 @@ dart test
 1. [<b>Swap variable</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/swap.dart)
    Swap two variables without using a third variable.
 2. [<b>Sort array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/sort_array.dart)
-   Sort an array without using sort function.
+   Sort an array without using the sort function.
 3. [<b>Second-largest element in array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/second_largest_element.dart)
-   Find second-largest element in array.
+   Find a second-largest element in an array.
 4. [<b>N prime numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/n_prime_numbers.dart)
    Generate first N prime numbers.
 5. [<b>Reverse string</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/reverse_string.dart)
@@ -36,11 +36,11 @@ dart test
 7. [<b>Count character occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/count_character_occurrence.dart)
    Count occurrences of characters in a given string.
 8. [<b>Number to words</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/number_to_words.dart)
-   Convert given number to words.
+   Convert a given number to words.
 9. [<b>Matching characters in two strings</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/matching_characters.dart)
    Find matching characters in two strings.
 10. [<b>Vowels & Consonants counter</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/count_vowels_consonants.dart)
-    Count number of vowels and consonants in give string.
+    Count the number of vowels and consonants in the given string.
 11. [<b>Factors</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/factors_of_number.dart)
     Find factors of a given number.
 12. [<b>Fibonacci numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/fibonacci_numbers.dart)
@@ -50,59 +50,59 @@ dart test
 14. [<b>Search node</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/search_node_linked_list.dart)
     Get index of node in LinkedList.
 15. [<b>Remove special characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_special_characters.dart)
-    Remove special characters from given string without regex.
+    Remove special characters from a given string without a regex.
 16. [<b>Find missing and duplicate_number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/find_missing_and_duplicate.dart)
-    Find missing and duplicate number from give array.
+    Find missing and duplicate number from a give array.
 17. [<b>String permutations</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/string_permutations.dart)
-    Find all permutations of given string.
+    Find all permutations of a given string.
 18. [<b>Valid Sudoku</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/valid_sudoku.dart)
     Determine if a 9 x 9 Sudoku board is valid.
 19. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_palindrome.dart)
     Check if given number is palindrome (without converting to string).
 20. [<b>Average of array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/average_of_array.dart)
-    Calculate the average of all numbers in a given array.
+    Calculates the average of all numbers in a given array.
 21. [<b>Check leap year</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_leap_year.dart)
-    Check if given year is leap year.
+    Check if a given year is leap year.
 22. [<b>Check palindrome number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_palindrome.dart)
     Check if given number is palindrome (without converting to string).
 23. [<b>Check narcissistic number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/check_narcissistic_number.dart)
-    Check if given number is narcissistic number (is a number that is the sum of its own digits each raised to the power
-    of the number of digits).
-24. [<b>Remove duplicates from array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
-    Remove duplicate items from array.
+    Check if the given number is a narcissistic number (a number equal to the sum of its digits, each raised to the
+    power of the total number of digits).
+24. [<b>Remove duplicates from an array </b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
+    Remove duplicate items from an array.
 25. [<b>Binary search</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/binary_search.dart)
-    Find item index in array using Binary Search.
+    Find item index in an array using Binary Search.
 26. [<b>Sum of natural numbers</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/sum_of_n_natural_numbers.dart)
-    Calculate sum of first n natural numbers.
+    Calculates a sum of first n natural numbers.
 27. [<b>Nearest smaller number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nearest_smaller_numbers_on_left_side_of_array.dart)
-    Find nearest smaller numbers of left side of array.
+    Find nearest smaller numbers of left sides of an array.
 28. [<b>Minimum number of coins</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/minimum_number_of_coins.dart)
     Calculate the minimum number of coins required for value.
 29. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/index_of_two_elements_target_sum.dart)
-    Find indices of two numbers with target sum.
+    Find indices of two numbers with a target sum.
 
 #### Array
 
-1. [<b>Remove duplicates from array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
-   Remove duplicate items from array.
+1. [<b>Remove duplicates from an array </b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/remove_duplicates_from_array.dart)
+   Remove duplicate items from an array.
 2. [<b>Search in rotated array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/search_for_target_value_in_rotated_array.dart)
-   Search for target value in rotated array.
+   Search for target value in a rotated array.
 3. [<b>Missing number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/find_missing_number_in_array.dart)
-   Find missing number in array.
+   Find a missing number in an array.
 4. [<b>Duplicate number</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_number_on_array.dart)
-   Find the duplicate number in array.
+   Find the duplicate number in an array.
 5. [<b>Smallest & Largest element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/smallest_and_largest_element.dart)
    Find the smallest and largest element for integer array(list).
 6. [<b>Array indices of target sum</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/index_of_two_elements_target_sum.dart)
-   Find indices of two numbers with target sum.
-7. [<b>Remove duplicates in array in place</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/remove_duplicates_from_array_in_place.dart)
-   Remove the duplicate elements from array in place.
+   Find indices of two numbers with a target sum.
+7. [<b>Remove duplicates in the array in place</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/remove_duplicates_from_array_in_place.dart)
+   Remove the duplicate elements from an array in place.
 8. [<b>Rotate array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/rotate_array.dart)
-   Rotate given array by rotation value.
+   Rotate a given array by rotation value.
 9. [<b>Duplicate elements</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/duplicate_elements.dart)
    Find duplicate elements from given array.
 10. [<b>Index of target element</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/start_and_end_position_of_target_element_in_array.dart)
-    Find starting and ending position of a given target value in ascending ordered array.
+    Find starting and ending position of a given target value in an ascending ordered array.
 11. [<b>Longest consecutive subarray</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/longest_consecutive_elements_subarray.dart)
     Find the maximum length of subarray with consecutive elements.
 12. [<b>In place QuickSort</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/in_place_quicksort.dart)
@@ -112,7 +112,7 @@ dart test
 14. [<b>Reverse array</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/reverse_array_in_place.dart)
     Reverse given array in place.
 15. [<b>Remove duplicates</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/remove_duplicates.dart)
-    Remove duplicate elements from array without using special function.
+    Remove duplicate elements from an array without using a special function.
 16. [<b>Byte array to String</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/array/byte_array_to_string.dart)
     Convert a Byte Array to a String.
 17. [<b>LinkedList example</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/nth_node_linked_list.dart)
@@ -131,7 +131,7 @@ dart test
 2. [<b>Add element in middle</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/insert_node_in_middle_of_linked_list.dart)
    Add an element in the middle of Linked List.
 3. [<b>Intersection of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/intersection_of_linked_list.dart)
-   Find the node at which the intersection of two Linked List begins.
+   Find the node at which the intersection of two Linked Lists begins.
 4. [<b>Palindrome Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/palindrome_linked_list.dart)
    Check if a given linked list is a palindrome.
 5. [<b>Middle of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/middle_of_linked_list.dart)
@@ -143,7 +143,7 @@ dart test
 8. [<b>Sum of Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sum_of_two_linked_list.dart)
    Sum of two Linked List.
 9. [<b>Delete List Node by value</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/delete_linked_list_nodes_by_value.dart)
-   Delete all occurrences of a given ListNode by value in given LinkedList.
+   Delete all occurrences of a given ListNode by value in the given LinkedList.
 10. [<b>Reverse Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/reverse_linked_list.dart)
     Reverse a LinkedList.
 11. [<b>Sort Linked List</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/linked_list/sort_linked_list.dart)
@@ -184,7 +184,7 @@ dart test
 7. [<b>Find duplicate characters</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/duplicate_characters_in_string.dart)
    Find duplicate characters from a string.
 8. [<b>Vowels & Consonants counter</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/random/count_vowels_consonants.dart)
-   Count number of vowels and consonants in give string.
+   Count the number of vowels and consonants in the given string.
 9. [<b>Find character occurrence</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/count_given_character_frequency_in_string.dart)
    Count the occurrence of a given character in a string.
 10. [<b>First non-repeated character</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/first_non_repeated_character.dart)
