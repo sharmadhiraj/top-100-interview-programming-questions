@@ -17,6 +17,15 @@ You can run tests with
 dart test
 ```
 
+#### Troubleshooting Tests
+
+If you encounter errors while running tests (such as command not found or snapshot issues), reset your dependencies by
+deleting `pubspec.lock` and running
+
+```bash
+dart pub upgrade --major-versions
+```
+
 ### Programming Questions
 
 #### Random
@@ -189,3 +198,5 @@ dart test
    Count the occurrence of a given character in a string.
 10. [<b>First non-repeated character</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/first_non_repeated_character.dart)
     Find the first non-repeated character from a string.
+11. [<b>Convert String to Int</b>](https://github.com/sharmadhiraj/top-100-interview-programming-questions/blob/main/src/string/string_to_int.dart)
+    Convert a numeric string to an integer, ignoring non-digit characters (similar to atoi()).
